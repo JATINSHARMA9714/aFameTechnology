@@ -1,7 +1,14 @@
+@font-face {
+    font-family: poppins;
+    src: url(./Poppins-Light.ttf);
+}
+@font-face {
+    font-family: kajiro;
+    src: url(./Kajiro\ Bold.ttf);
+}
 *{
     margin: 0;
     padding: 0;
-    font-family: poppins;
     box-sizing: border-box;
 }
 *::selection{
